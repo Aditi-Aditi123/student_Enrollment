@@ -1,11 +1,5 @@
-# ── JPDB Secret Config ──────────────────────
-# Contains real connection token — never push
 js/config.js
-
-# ── VS Code ──────────────────────────────────
 .vscode/
-
-# ── OS Generated Files ────────────────────────
 .DS_Store
 Thumbs.db
 desktop.ini
